@@ -1,3 +1,3 @@
 Third-party of custom settings
 ==============================
-![Ecem](https://imgur.com/a/ZNm9225)
+![Ecem](https://www.ecem.com/img/ecem-logo-main.png)
