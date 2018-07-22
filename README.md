@@ -1,3 +1,3 @@
 Third-party of custom settings
 ==============================
-![Ecem](https://resmim.net/f/PMBssF.png)
+![Ecem](resmim.net/f/PMBssF.png)
